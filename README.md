@@ -2,7 +2,7 @@
 - 👀 I’m interested in training, food, reading books, taking long walks and listening to music.
 - 🌱 I’m currently learning front-end development
 - 💞️ I’m looking to collaborate on website projects that make use of my learnings
-- 📫 I'm learning the following tools: HTML, CSS, Figma, Wordpress, Javascript
+- 📫 I'm learning the following tools: HTML, CSS, Figma, Wordpress, Javascript, Bootstrap, React
 
 <!---
 Emel-H/Emel-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
